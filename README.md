@@ -1,10 +1,10 @@
-# 🔍 IEEE SB GEHU -- ML Challenge
+#  IEEE SB GEHU -- ML Challenge
 
 ## Binary Fault Detection using Machine Learning
 
 ------------------------------------------------------------------------
 
-## 📌 Overview
+##  Overview
 
 This repository contains my solution for the **IEEE SB GEHU ML
 Challenge**.
@@ -62,7 +62,7 @@ Multiple classification algorithms were trained and compared:
 
 ------------------------------------------------------------------------
 
-## 🏆 Final Model
+##  Final Model
 
 **Random Forest** demonstrated:
 
@@ -73,7 +73,7 @@ Final model file: rf_model.pkl
 
 ------------------------------------------------------------------------
 
-## 📊 Evaluation Focus
+##  Evaluation Focus
 
 Special emphasis was placed on:
 
@@ -84,7 +84,7 @@ alarms.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
 ```ML-Challenge/
 │
@@ -99,7 +99,7 @@ alarms.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1️⃣ Clone Repository
 
@@ -124,7 +124,7 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------
 
-## 🚀 Usage
+##  Usage
 
 ### 🔹 Train Model
 
@@ -170,7 +170,7 @@ Generated file: FINAL.csv
 
 ------------------------------------------------------------------------
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates:
 
