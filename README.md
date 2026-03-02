@@ -77,7 +77,7 @@ Final model file: rf_model.pkl
 
 Special emphasis was placed on:
 
--   **Recall for Class 1 (Fault Detection)**
+-   **Recall/Precision for Class 1 (Fault Detection)**
 
 Detecting faults reliably is more important than minimizing false
 alarms.
